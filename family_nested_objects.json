@@ -1,0 +1,35 @@
+[
+    {
+        "Caprice": {
+            "age": 29,
+            "height": "5'9",
+            "job": "High School Track Coach",
+            "appearance": {
+                "eye color": "brown",
+                "hair": "long"
+            }
+        }
+    },
+    {
+        "Ahmad": {
+            "age": 36,
+            "height": "6'3",
+            "job": "retail manager",
+            "appearance": {
+                "eye color": "brown",
+                "hair": "short"
+            }
+        }
+    },
+    {
+        "Mom": {
+            "age": 64,
+            "height": "5'1",
+            "job": "Retired Detective",
+            "appearance": {
+                "eye color": "brown",
+                "hair": "short"
+            }
+        }
+    }
+]
